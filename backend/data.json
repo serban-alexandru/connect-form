@@ -1,1 +1,11 @@
-[{"name":"Alex","email":"alex@x.com"},{"name":"John","age":30},{"name":"John","age":30},{"name":"John","age":30},{"name":"John","age":30},{"name":"John","age":30},{"name":"John","age":30},{"accountType":"advanced","username":"Test@x.com","password":"password","serverAddress":"Address","serverPath":"/patggg","port":123,"useSSL":true},{"accountType":"advanced","username":"Alex@example.com","password":"wordasda","serverAddress":"Address","serverPath":"/pat","port":123},{"accountType":"advanced","username":"Alex@example.com","password":"wordasda","serverAddress":"Address","serverPath":"/pat","port":123},{"accountType":"normal","username":"Alex@example.com","password":"wordasda","serverAddress":"Address","serverPath":"/pat","port":12,"useSSL":false},{"accountType":"normal","username":"Alex@example.com","password":"wordasda","serverAddress":"Address","serverPath":"/pat","port":12,"useSSL":false},{"accountType":"normal","username":"Test@x.com","password":"password","serverAddress":"Address","serverPath":"/","port":80,"useSSL":false},{"accountType":"advanced","username":"Test@x.com","password":"password","serverAddress":"Address","serverPath":"/","port":80,"useSSL":true}]
+[
+    {
+        "accountType": "normal",
+        "username": "example@test.com",
+        "password": "password",
+        "serverAddress": "http://localhost:3000",
+        "serverPath": "/",
+        "port": 80,
+        "useSSL": false
+    }
+]
